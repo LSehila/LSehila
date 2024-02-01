@@ -1,7 +1,11 @@
 <h1 align="center">Bonjour 👋 , Je suis Lyes Sehila</h1>
 <h3 align="center">Un Etudiant en deuxième année licence informatique</h3>
-<p>Je suis actuellement en train de poursuivre mes études en informatique, en me concentrant sur divers domaines tels que le développement web, la programmation orientée objet et l'intelligence artificielle. J'aime relever de nouveaux défis et découvrir de nouvelles technologies qui me permettent d'améliorer mes compétences.</p>
+<p align="center">Je me trouve actuellement en plein parcours académique en informatique, où je me spécialise dans divers domaines tels que le développement web, la programmation orientée objet et l'intelligence artificielle. 
+Mon enthousiasme pour relever de nouveaux défis me conduit à constamment découvrir des technologies innovantes pour affiner et élargir mes compétences.</p>
 
+
+## 🎓 Projets :
+<p>Je m'investis dans plusieurs projets, alliant des aspects personnels et académiques pour appliquer mes connaissances et explorer diverses technologies. Mon enthousiasme particulier se manifeste dans le domaine du développement web, où je prends plaisir à concevoir des applications interactives et conviviales. Si vous souhaitez me contacter, vous pouvez le faire à l'adresse suivante 📫: <a href="mailto:sehilalyes@gmail.com">sehilalyes@gmail.com</a></p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#9464) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sehilalyes) 
