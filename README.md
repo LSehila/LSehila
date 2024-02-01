@@ -2,7 +2,7 @@
 <h3 align="center">Un Etudiant en deuxième année informatique</h3>
 <p>Je suis actuellement en train de poursuivre mes études en informatique, en me concentrant sur divers domaines tels que le développement web, la programmation orientée objet et l'intelligence artificielle. J'aime relever de nouveaux défis et découvrir de nouvelles technologies qui me permettent d'améliorer mes compétences.</p>
 
-- 📫 Contactez-moi ici : **sehilalyes@gmail.com**
+📫 Si vous souhaitez me contacter pour discuter de collaborations, de projets ou simplement pour échanger des idées n'hésitez pas à me contacter par email à : **sehilalyes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
