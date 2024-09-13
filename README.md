@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋 , Je suis Lyes Sehila</h1>
-<h3 align="center">Un Etudiant en deuxième année licence informatique</h3>
+<h3 align="center">Un Etudiant en troisième année licence informatique</h3>
 <p align="justify">Je me trouve actuellement en plein parcours académique en informatique, où je me spécialise dans divers domaines tels que le développement web, la programmation orientée objet et l'intelligence artificielle. 
 Mon enthousiasme pour relever de nouveaux défis me conduit à constamment découvrir des technologies innovantes pour affiner et élargir mes compétences.</p>
 
